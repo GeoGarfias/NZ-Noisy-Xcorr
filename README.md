@@ -12,7 +12,8 @@ ________________________________________________________________________________
               (stat_pair).
    - pre_filt: A prefilter to remove the instrument response.
    - waterl:  A value for the water level filter to remove instrument response.
-  You can also modified:
+ 
+   You can also modified:
    - Sample rate
    - bandpass filter
    - type of time normalization
