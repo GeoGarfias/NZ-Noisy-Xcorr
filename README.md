@@ -12,14 +12,13 @@ ________________________________________________________________________________
               (stat_pair).
    - pre_filt: A prefilter to remove the instrument response.
    - waterl:  A value for the water level filter to remove instrument response.
-      ------------------------------------------------------------------------------------------------------------------------------------------
-      You can also modified:
-      - Sample rate
-      - bandpass filter
-      - type of time normalization
-      - frequencys of spectral normalization (whitening)
-      - the crosscorrelation window lenght
-      - maximum length of correlation to plot
+   You can also modified:
+   - Sample rate
+   - bandpass filter
+   - type of time normalization
+   - frequencys of spectral normalization (whitening)
+   - the crosscorrelation window lenght
+   - maximum length of correlation to plot
   
   
   
