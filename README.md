@@ -1,8 +1,8 @@
 # NZ-Noisy-Xcorr
 So far there's only one code in this repository 'Crosscorr.py'
-
+_______________________________________________________________________________________________________________________________________________________
 1. Crosscorr.py:
-   This codes contains function from Seismo-live* and from me.
+   This codes contains function from Seismo-live** and from me.
    Variables you can modified from this code:
       main_path: Add the a path where you want to keep the data and figures this code produce.
       data_dir: name of the data directory
@@ -12,7 +12,7 @@ So far there's only one code in this repository 'Crosscorr.py'
               (stat_pair).
       pre_filt: A prefilter to remove the instrument response.
       waterl:  A value for the water level filter to remove instrument response.
-      --------------------------------------------------------------------------------------------------------------------------------
+      ------------------------------------------------------------------------------------------------------------------------------------------
       You can also modified:
       - Sample rate
       - bandpass filter
@@ -41,4 +41,4 @@ So far there's only one code in this repository 'Crosscorr.py'
   
   
   
-  * Seismo-live: https://krischer.github.io/seismo_live_build/html/Ambient%20Seismic%20Noise/NoiseCorrelation_wrapper.html
+  ** Seismo-live: https://krischer.github.io/seismo_live_build/html/Ambient%20Seismic%20Noise/NoiseCorrelation_wrapper.html
